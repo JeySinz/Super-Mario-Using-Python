@@ -1,2 +1,2 @@
 # Super-Maryo-Using-Python
-I have built custom version of super maryo game by using pygame library in python.
+To run this game you must download all the files and save it in one particular folder.
